@@ -1,0 +1,53 @@
+h1{
+    text-shadow: 2px 2px 4px rgba(93, 88, 56, 0.866);
+}
+body{
+    margin: 0%;
+}
+main{
+    margin: 40px;
+}
+h1{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: rgb(178, 140, 12);
+    padding: 0px;
+    margin: 0%;
+    overflow: hidden
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: rgb(100, 79, 8);
+}
+.navbar li{
+    float: left;
+}
+main{
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgb(160, 127, 20);
+    border-radius: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 30px;
+}
+p{
+    margin: 50px;
+    font-size: 20px;
+}
+img{
+    margin: 80px;
+}
+h5{
+    margin: 50px;
+}
+table{
+    border-color: rgb(255, 255, 255) ;
+}
